@@ -1,2 +1,2 @@
 # Data-Engineering-Project
-Tokyo-Olympic-Azure-Data-Engineering-Project
+Azure-Data-Engineering-Project
